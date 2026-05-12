@@ -7,7 +7,8 @@
   },
   "server": {
     "ip": "MaranaLokam.aternos.me",
-    "port": 60130,
+    "port": 60130
+   ,
     "version": "",
     "try-creative": false
   },
