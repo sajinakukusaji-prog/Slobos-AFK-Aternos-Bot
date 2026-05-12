@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "MaranaLokam.aternos.me",
+    "port": 60130,
     "version": "",
     "try-creative": false
   },
